@@ -1,2 +1,2 @@
-source /home/ec2-user/.bash_profile
+#!/bin/bash
 sudo rm -rf /home/ec2-user/raw

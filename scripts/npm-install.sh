@@ -1,4 +1,4 @@
-source /home/ec2-user/.bash_profile
+source /home/ec2-user/raw/.bash_profile
 
 cd /home/ec2-user/raw
 git clone https://github.com/rohitdhan13/hello_world_app.git
