@@ -14,3 +14,6 @@ hooks:
     - location: scripts/npm-start.sh
       runas: root
       timeout: 60
+   ApplicationStop:
+    - location: scripts/remove-deployment.sh
+  

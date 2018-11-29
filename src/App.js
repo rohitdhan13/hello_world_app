@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Pushed the code from github to AWS Codedeploy for deployment!
+            Pushed the code from github to AWS Codedeploy for deployment after removing the previous deployment!
           </p>
           <a
             className="App-link"
