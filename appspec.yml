@@ -16,4 +16,5 @@ hooks:
       timeout: 60
    ApplicationStop:
     - location: scripts/remove-deployment.sh
+      runas: root
   
